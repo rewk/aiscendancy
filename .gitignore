@@ -1,0 +1,16 @@
+# The game's own files (The Logic Factory, 1995): never committed, never shipped.
+cob0/
+cob1/
+cob2/
+*.cob
+# Built binaries: go build -o bin/... (a bare `go build ./cmd/cob` collides with cob/)
+/bin/
+*.png
+# Screenshots and notes pulled from the web: not ours to commit.
+/reference/
+docs/third-party/
+# The window's standing flags (cmd/aiscendancy/config.go): this machine's, not the repo's.
+/aiscendancy.json
+# Action journals (-journal, package journal): one machine's plays.
+*.jsonl
+sfx

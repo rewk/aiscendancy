@@ -1,0 +1,13 @@
+{
+  "star": 8,
+  "planets": [
+    {"planet": 2, "empire": 1, "pop": 6,
+     "orbit": ["Orbital Shield", "Orbital Missile Base", "Short Range Orbital Whopper"],
+     "surface": ["Surface Shield"]}
+  ],
+  "ships": [
+    {"empire": 0, "design": "cruiser", "at": "near 2"},
+    {"empire": 0, "design": "frigate", "count": 2, "at": "near 2"},
+    {"empire": 1, "design": "frigate", "at": "orbit 2"}
+  ]
+}

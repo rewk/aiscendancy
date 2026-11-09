@@ -1,0 +1,8 @@
+{
+  "game": "/home/me/dosbox/Ascend",
+  "save": "/home/me/.local/share/aiscendancy/quick.json.gz",
+  "music": true,
+  "volume": 0.6,
+  "music-gap": "3m",
+  "sfx": 0.6
+}

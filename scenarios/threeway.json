@@ -1,0 +1,20 @@
+{
+  "star": 33,
+  "stances": [
+    {"a": 1, "b": 2, "stance": "alliance"},
+    {"a": 0, "b": 1, "stance": "war"},
+    {"a": 0, "b": 2, "stance": "war"}
+  ],
+  "planets": [
+    {"planet": 2, "empire": 0, "orbit": ["Orbital Shield", "Orbital Missile Base"]},
+    {"planet": 3, "empire": 1, "orbit": ["Orbital Shield", "Long Range Orbital Whopper"], "surface": ["Surface Shield"]},
+    {"planet": 4, "empire": 2, "orbit": ["Orbital Missile Base", "Orbital Shield"]}
+  ],
+  "ships": [
+    {"empire": 0, "design": "cruiser", "at": "orbit 2"},
+    {"empire": 0, "design": "frigate", "count": 2, "at": "near 2"},
+    {"empire": 1, "design": "frigate", "count": 2, "at": "lane 0"},
+    {"empire": 2, "design": "corvette", "count": 2, "at": "lane 1"},
+    {"empire": 2, "design": "cruiser", "at": "near 4"}
+  ]
+}

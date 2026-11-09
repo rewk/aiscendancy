@@ -1,0 +1,9 @@
+{
+  "ships": [
+    {"empire": 0, "design": "cruiser", "at": "orbit 0"},
+    {"empire": 0, "design": "frigate", "at": "orbit 0"},
+    {"empire": 0, "design": "corvette", "at": "orbit 0"},
+    {"empire": 1, "design": "cruiser", "at": "lane 0"},
+    {"empire": 1, "design": "frigate", "count": 2, "at": "lane 0"}
+  ]
+}
